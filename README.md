@@ -28,4 +28,4 @@ To use the GUI version of the mail dumper, RUN app.py
 
 ![Screenshot 2021-10-17 125357](https://user-images.githubusercontent.com/71689827/137629959-426e6f04-4766-4e96-8453-6b165a234b88.png)
 
-# Sit back and HAPPY DUMPING :P
+# Happy Coding.
