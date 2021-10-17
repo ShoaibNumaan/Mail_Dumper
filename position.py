@@ -1,3 +1,4 @@
+from time import sleep
 import pyautogui as p
 
 
